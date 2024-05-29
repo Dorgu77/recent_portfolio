@@ -1,5 +1,5 @@
 {
-  "name": "recent_portfolikh",
+  "name": "recent_portfolorrfrre",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,12 +17,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "eslintConfig": {
-    "extends": [
-      "react-app1",
-      "react-app/jest1"
-    ]
-  },
+
   "browserslist": {
     "production": [
       ">0.2%",
