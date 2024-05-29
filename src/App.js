@@ -253,7 +253,7 @@ setTimeout(() => {
           <li>
             {" "}
             <img src="react.png" alt="react" />{" "}
-            <img src="node.png" alt="nodejs" />{" "}
+            <img src="node.png" alt="node" />{" "}
             <img src="express.png" alt="express" />
           </li>
           </div>
