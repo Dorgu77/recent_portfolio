@@ -327,20 +327,20 @@ border: none;
 
   .socialimage {opacity: 0.53;
     width: 5vw;border-radius: 5px;
-    margin: 6px;
+    margin: 7px;
     height: 5vh;
-    border: 1.5px solid rgb(89, 144, 6);
+    
   }
 
   #copywrite {
     color:rgb(155, 145, 145);
     font-family: Georgia, "Times New Roman", Times, serif;
-    text-align: center;opacity: 0.85;
+    text-align: center;opacity: 0.6;
     font-size: 3vw; 
   }
 
   #myname {
-    color: rgb(155, 145, 145);opacity: 0.85;
+    color: rgb(155, 145, 145);opacity: 0.6;
     font-size: 3vw;
     font-family: Georgia, "Times New Roman", Times, serif;
     text-align: center;
