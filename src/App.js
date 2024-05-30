@@ -83,9 +83,8 @@ const[checkstate, setcheckstate]=React.useState(false);
   const [on, setOn] = React.useState(false);
 
   function openmenu(event) {
-    setOn((prevon) => !prevon);
+    setOn(prevon => !prevon);
   }
-
   
   /*
   function closemenu(event) {
