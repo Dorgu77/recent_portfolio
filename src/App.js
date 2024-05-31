@@ -110,7 +110,7 @@ some major industry technologies i use are as follows..
 
 
 <div className="skills">
-<li> <img src="html.png" alt="Html" />  <img src="css.png" alt="Html" />  <img src="javascript.png" alt="Html" /></li>
+<li> <img src="react.png" alt="react" />  <img src="node.png" alt="node" />  <img src="javascript.png" alt="javascript" /></li>
 <<<<<<< HEAD
 <li> <img src="react.png" alt="react" /> <img src="node.png" alt="node" /> <img src="dev.png" alt="Html" /></li>
 =======
